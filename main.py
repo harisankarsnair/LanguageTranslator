@@ -22,11 +22,11 @@ value2 = Languages[option2]
 
 if st.button('Translate Sentence'):
     if text == "":
-        st.write('Please enter text for translation')
+        st.warning('Please enter text for translation')
 
     else:
         translate = translator.translate(text,lang_src=value1,lang_tgt=value2)
-        st.info('Translated Sentence - '+str(translate))
+        st.info(str(translate))
 
         converted_audio = gtts.gTTS(translate, lang=value2)
         converted_audio.save("translated.mp3")
