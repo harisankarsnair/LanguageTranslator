@@ -26,7 +26,7 @@ if st.button('Translate Sentence'):
 
     else:
         translate = translator.translate(text,lang_src=value1,lang_tgt=value2)
-        st.markdown('Translated Sentence - '+str(translate))
+        st.info('Translated Sentence - '+str(translate))
 
         converted_audio = gtts.gTTS(translate, lang=value2)
         converted_audio.save("translated.mp3")
