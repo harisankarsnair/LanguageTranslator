@@ -1,11 +1,13 @@
 [theme]
 
-primaryColor = ''
+base = 'dark'
+
+primaryColor = 'purple'
 
 backgroundColor = ''
 
-secondaryBackgroundColor = ''
+secondaryBackgroundColor = 'gray'
 
-textColor = ''
+textColor = 'black'
 
-font = ''
+font = 'sans serif'
