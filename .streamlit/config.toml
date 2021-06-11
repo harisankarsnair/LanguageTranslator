@@ -4,6 +4,6 @@ base = 'dark'
 
 primaryColor = '#ADD8E6'
 
-textColor = 'violet'
+textColor = ''
 
 font = 'sans serif'
