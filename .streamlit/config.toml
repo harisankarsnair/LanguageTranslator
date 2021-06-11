@@ -4,10 +4,4 @@ base = 'dark'
 
 primaryColor = 'purple'
 
-backgroundColor = ''
-
-secondaryBackgroundColor = 'gray'
-
-textColor = 'black'
-
 font = 'sans serif'
