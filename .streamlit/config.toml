@@ -4,4 +4,6 @@ base = 'dark'
 
 primaryColor = '#ADD8E6'
 
+textColor = '#98FB98'
+
 font = 'sans serif'
