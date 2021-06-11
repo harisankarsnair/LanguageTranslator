@@ -7,7 +7,7 @@ Languages = {'afrikaans':'af','albanian':'sq','amharic':'am','arabic':'ar','arme
 
 
 translator = google_translator()
-st.title("Language Translator ")
+st.title("Language Translator :balloon:")
 
 text = st.text_area("Enter text:",value='',height=None,max_chars=None,key=None)
 
