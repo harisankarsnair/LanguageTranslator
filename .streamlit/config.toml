@@ -4,6 +4,4 @@ base = 'dark'
 
 primaryColor = '#ADD8E6'
 
-textColor = ''
-
 font = 'sans serif'
