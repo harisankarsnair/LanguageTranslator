@@ -2,6 +2,6 @@
 
 base = 'dark'
 
-primaryColor = 'purple'
+primaryColor = 'light_blue'
 
 font = 'sans serif'
