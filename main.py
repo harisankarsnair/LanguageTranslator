@@ -33,8 +33,8 @@ if st.button('Translate Sentence'):
         audio_file = open('translated.mp3','rb')
         audio_bytes = audio_file.read()
         st.audio(audio_bytes, format='audio')
-        st.write("To download the audio file, click the kebab menu on the audio bar.")
-        st.success("Translation is successfully completed!")
+        st.write("To **download the audio file**, click the kebab menu on the audio bar.")
+        st.success("**Translation is successfully completed!**")
         st.balloons()
 else:
     pass
