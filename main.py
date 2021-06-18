@@ -22,7 +22,7 @@ value2 = Languages[option2]
 
 if st.button('Translate Sentence'):
     if text == "":
-        st.warning('Please enter text for translation')
+        st.warning('Please **enter text** for translation')
 
     else:
         translate = translator.translate(text,lang_src=value1,lang_tgt=value2)
