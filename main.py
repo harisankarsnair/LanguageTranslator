@@ -41,7 +41,7 @@ if st.button('Translate Sentence'):
 else:
     pass
 
-s 
+ 
  
 
 
