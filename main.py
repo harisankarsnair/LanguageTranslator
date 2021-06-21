@@ -1,7 +1,7 @@
 from google_trans_new import google_translator # pip install google_trans_new==1.1.9
 import streamlit as st # pip install streamlit==0.82.0
 import gtts # pip install gtts
-import st_state_patch
+
 
 st.set_page_config(page_title='Simply! Translate', page_icon='translator-icon.png', layout='wide', initial_sidebar_state='expanded')
 
@@ -41,10 +41,10 @@ if st.button('Translate Sentence'):
 else:
     pass
 
-s = st.GlobalState(key="user metadata")
-if not s:
-  s.counter = 0
+s 
+ 
 
-s.counter += 1
 
-st.markdown(f'Page viewed = {s.counter}')
+
+
+
