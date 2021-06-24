@@ -13,6 +13,7 @@ translator = google_translator()
 st.title("Language Translator:balloon:")
 st.write('''
 [![Star](https://img.shields.io/github/stars/HarisankarSNair/LanguageTranslator.svg?logo=github&style=social)](https://gitHub.com/HarisankarSNair/LanguageTranslator)
+&nbsp [![Streamlit](https://img.shields.io/badge/Made%20with%20-Streamlit-red)](https://streamlit.io/)
 ''')
 
 text = st.text_area("Enter text:",value='',height=None,max_chars=None,key=None,help="Enter your text here")
