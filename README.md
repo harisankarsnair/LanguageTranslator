@@ -1,5 +1,5 @@
-![Logo](https://raw.githubusercontent.com/HarisankarSNair/LanguageTranslator/main/translator-icon.png)
-# Language Translator
+
+# <img src="translator-icon.png" width=5%>Language Translator
 
 An app for translating fom one language to another.Almost all world languages are available.
  
