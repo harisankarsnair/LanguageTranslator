@@ -1,11 +1,11 @@
 
 # <img src="translator-icon.png" width=2.5%> Language Translator
 
-An app for translating fom one language to another.Almost all world languages are available.
+An app for translating from one language to another.Almost all world languages are available.
  
  ## Features
  * Translates to any language
- * App also generate an audio file of the translation
+ * App also generates an audio file of the translation
  * And lets  you download the audio file
 
 ## Requirements
