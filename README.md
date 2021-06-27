@@ -1,5 +1,5 @@
 
-# <img src="translator-icon.png" width=3%>Language Translator
+# <img src="translator-icon.png" width=2.5%> Language Translator
 
 An app for translating fom one language to another.Almost all world languages are available.
  
