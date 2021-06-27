@@ -10,7 +10,7 @@ Languages = {'afrikaans':'af','albanian':'sq','amharic':'am','arabic':'ar','arme
 
 
 translator = google_translator()
-st.title("Language Translator:balloon:")
+st.title("# <img src="translator-icon.png" width=2.5%> Language Translator")
 st.write('''
 [![Star](https://img.shields.io/github/stars/HarisankarSNair/LanguageTranslator.svg?logo=github&style=social)](https://gitHub.com/HarisankarSNair/LanguageTranslator)
 &nbsp [![Streamlit](https://img.shields.io/badge/Made%20with%20-Streamlit-red)](https://streamlit.io/)
