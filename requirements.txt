@@ -1,4 +1,7 @@
 
+
 google-trans-new
+
 streamlit==0.82.0
+
 gtts
