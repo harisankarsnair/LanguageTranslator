@@ -1,4 +1,4 @@
 google-trans-new
-streamlit==0.82.0
+streamlit==0.85.0
 gtts
 
