@@ -1,4 +1,4 @@
-google-trans-new
+googletrans==3.1.0a0
 streamlit
 gtts
 
