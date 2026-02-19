@@ -11,7 +11,7 @@ An app for translating from one language to another.Almost all world languages a
 ## Requirements
 
 * Streamlit - open source app framework for Machine Learning & Data Science
-* google-trans-new - google translate api
+* googletrans - google translate api
 * gTTS - google text to speech
 
 ## Badges
